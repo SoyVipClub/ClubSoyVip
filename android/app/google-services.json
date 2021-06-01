@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "36019538906",
+    "project_id": "pedidosvip-8a2fd",
+    "storage_bucket": "pedidosvip-8a2fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36019538906:android:173b68732672d4ebdf4ee3",
+        "android_client_info": {
+          "package_name": "com.soy.vip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "36019538906-g6lckmdfp4hv4lin8l3r59kr12v40mqe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.soy.vip",
+            "certificate_hash": "088dfcda70f153c17a4b3d775d10bc301e506734"
+          }
+        },
+        {
+          "client_id": "36019538906-q7mqkroilpt6me9upuu93dn15gro2vcp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHtxPl2GUfuq1iQ6VzTreLciKObmx0DDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "36019538906-q7mqkroilpt6me9upuu93dn15gro2vcp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
